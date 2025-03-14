@@ -25,4 +25,4 @@ const employees = [
 
 console.log(getManagers(employees, 200)); // [50, 73, 11]
 console.log(getManagers(employees, 11));  // [11]
-console.log(getManagers(employees, 150)); // []
+console.log(getManagers(employees, 400)); // []
